@@ -4,6 +4,14 @@
         "description": "A plugin that provides basic scripting for data manipulation directly in a pipeline.",
         "provider": "https://github.com/dwilliams-spinnaker-plugins",
         "releases": [
+            {
+                "version": "0.0.2",
+                "date": "2020-11-03T16:20:59Z",
+                "requires": "orca>=0.0.0,deck>=0.0.0",
+                "sha512sum": "d7452d5bf0425e8f8d2cab1b0768fb756061e4443764a1a2db6b953f1243285357ff430d9d08efc23bf145752359befb8ff699b6ae653040428ce4e9239d187c",
+                "state": "",
+                "url": "https://github.com/dwilliams-spinnaker-plugins/SimpleScriptPlugin/releases/download/v0.0.2/SimpleScriptPlugin-v0.0.2.zip"
+            }
         ]
     }
 ]
