@@ -1,6 +1,6 @@
 [
     {
         "id": "DwilliamsSpinnakerPluginRepository",
-        "url": ""
+        "url": "https://raw.githubusercontent.com/dwilliams-spinnaker-plugins/DwilliamsSpinnakerPluginRepository/main/plugins.json"
     }
 ]
