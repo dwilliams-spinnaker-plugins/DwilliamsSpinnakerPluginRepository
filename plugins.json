@@ -1,0 +1,9 @@
+[
+    {
+        "id": "DwilliamsSpinnakerPlugins.SimpleScriptPlugin",
+        "description": "A plugin that provides basic scripting for data manipulation directly in a pipeline.",
+        "provider": "https://github.com/dwilliams-spinnaker-plugins",
+        "releases": [
+        ]
+    }
+]
