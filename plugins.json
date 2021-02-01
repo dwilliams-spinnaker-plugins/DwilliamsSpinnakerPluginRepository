@@ -5,8 +5,16 @@
         "provider": "https://github.com/dwilliams-spinnaker-plugins",
         "releases": [
             {
+                "version": "0.0.3",
+                "date": "2021-02-01T18:35:41Z",
+                "requires": "orca>=0.0.0,deck>=0.0.0",
+                "sha512sum": "51d3d7396a95925dc9344395be93607f601b63ea464ae8c00ddc785837fe0f70f0ccff47fabcfb8a925833fb199501a0f1344fb39f836f40da378e7ddd5c047b",
+                "state": "",
+                "url": "https://github.com/dwilliams-spinnaker-plugins/SimpleScriptPlugin/releases/download/v0.0.2/SimpleScriptPlugin-v0.0.3.zip"
+            },
+            {
                 "version": "0.0.2",
-                "date": "2020-11-03T16:20:59Z",
+                "date": "2021-01-29T22:07:44Z",
                 "requires": "orca>=0.0.0,deck>=0.0.0",
                 "sha512sum": "d7452d5bf0425e8f8d2cab1b0768fb756061e4443764a1a2db6b953f1243285357ff430d9d08efc23bf145752359befb8ff699b6ae653040428ce4e9239d187c",
                 "state": "",
