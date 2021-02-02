@@ -10,7 +10,7 @@
                 "requires": "orca>=0.0.0,deck>=0.0.0",
                 "sha512sum": "3b5c735c18a3e08b7dc7363b709aff55848d8589bad497ad35970511b961a3f565c3e0de60e72bfe33f33afad91ff60ca0dc3585b8389f666d41dcafe2288751",
                 "state": "",
-                "url": "https://github.com/dwilliams-spinnaker-plugins/SimpleScriptPlugin/releases/download/v0.0.2/SimpleScriptPlugin-v0.0.4.zip"
+                "url": "https://github.com/dwilliams-spinnaker-plugins/SimpleScriptPlugin/releases/download/v0.0.4/SimpleScriptPlugin-v0.0.4.zip"
             },
             {
                 "version": "0.0.3",
@@ -18,7 +18,7 @@
                 "requires": "orca>=0.0.0,deck>=0.0.0",
                 "sha512sum": "51d3d7396a95925dc9344395be93607f601b63ea464ae8c00ddc785837fe0f70f0ccff47fabcfb8a925833fb199501a0f1344fb39f836f40da378e7ddd5c047b",
                 "state": "",
-                "url": "https://github.com/dwilliams-spinnaker-plugins/SimpleScriptPlugin/releases/download/v0.0.2/SimpleScriptPlugin-v0.0.3.zip"
+                "url": "https://github.com/dwilliams-spinnaker-plugins/SimpleScriptPlugin/releases/download/v0.0.3/SimpleScriptPlugin-v0.0.3.zip"
             },
             {
                 "version": "0.0.2",
