@@ -9,7 +9,7 @@ spinnaker:
     plugins:
       DwilliamsSpinnakerPlugins.SimpleScriptPlugin:
         enabled: true
-        version: 0.0.6
+        version: 0.0.8
         extensions:
           dwilliamsSpinnakerPlugins.simpleScriptPlugin:
             enabled: true
